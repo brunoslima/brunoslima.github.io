@@ -1,0 +1,78 @@
+key,project,value
+Rework Time,1,54840
+Rework Time,2,54840
+Rework Time,3,67827
+Rework Time,4,98307
+Rework Time,5,104470
+Rework Time,6,141669
+Rework Time,7,143507
+Rework Time,8,144497
+Rework Time,9,141020
+Rework Time,10,149234
+Rework Time,11,147799
+Amount,1,2790
+Amount,2,2790
+Amount,3,3571
+Amount,4,5137
+Amount,5,5357
+Amount,6,7333
+Amount,7,7350
+Amount,8,7387
+Amount,9,7204
+Amount,10,6874
+Amount,11,6716
+Blocker,1,38
+Blocker,2,38
+Blocker,3,37
+Blocker,4,52
+Blocker,5,38
+Blocker,6,46
+Blocker,7,39
+Blocker,8,41
+Blocker,9,38
+Blocker,10,39
+Blocker,11,39
+Critical,1,110
+Critical,2,110
+Critical,3,150
+Critical,4,194
+Critical,5,218
+Critical,6,305
+Critical,7,263
+Critical,8,266
+Critical,9,255
+Critical,10,277
+Critical,11,276
+Major,1,2112
+Major,2,2112
+Major,3,2657
+Major,4,3745
+Major,5,3853
+Major,6,5150
+Major,7,5226
+Major,8,5257
+Major,9,5099
+Major,10,4685
+Major,11,4523
+Minor,1,528
+Minor,2,528
+Minor,3,682
+Minor,4,1099
+Minor,5,1201
+Minor,6,1780
+Minor,7,1770
+Minor,8,1771
+Minor,9,1760
+Minor,10,1823
+Minor,11,1828
+Info,1,2
+Info,2,2
+Info,3,45
+Info,4,47
+Info,5,47
+Info,6,52
+Info,7,52
+Info,8,52
+Info,9,52
+Info,10,50
+Info,11,50
